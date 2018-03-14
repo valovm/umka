@@ -1,0 +1,17 @@
+.badge{
+  box-shadow: 0 18px 35px 0 rgba(0, 0, 0, 0.07);
+  border-radius: 3px;
+  margin-left: 30px;
+  padding: 5px 10px 5px 10px;
+  display: inline-block;
+  line-height: 1.5em;
+  font-size: 14px;
+}
+.badge-primary{
+  background: #FFDC32;
+  color: #000;
+}
+
+.badge-secondary{
+    background: #FFDC32;
+}

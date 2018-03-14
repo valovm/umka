@@ -1,0 +1,39 @@
+.btn {
+  padding: 0 15px 0 15px;
+  line-height: 44px;
+  display: inline-block;
+  font-size: 16px;
+  height: 44px;
+  border: 0;
+}
+.btn-primary {
+  background: #31C766;
+  color: #FFF;
+  font-weight: 600;
+  border-radius: 3px;
+
+  box-shadow: 0 1px 10px 0 rgba(0,0,0,0.15);
+  position: relative;
+  top: 0;
+  transition: all .2s;
+}
+.btn-primary:hover {
+  background: #1AAA4D;
+  color: #FFF;
+}
+.btn-primary:active {
+  background: #1AAA4D;
+  top: 1px;
+}
+.btn-link  {
+  margin-left: 20px;
+}
+
+.btn-block{
+  display: block;
+  width: 100%;
+}
+.btn-lg{
+  height: 60px;
+  border-radius: 5px;
+}

@@ -1,0 +1,110 @@
+a {
+  text-decoration: none;
+  font-weight: 400;
+
+  color: #313FBC;
+}
+
+a:hover {
+  color: #222C87;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  line-height: 1.5em;
+  font-size: 20px;
+  color: #000000;
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+p+p {
+  margin-top: 20px;
+}
+
+h1 {
+  font-weight: 400;
+  line-height: 1.3em;
+  font-size: 48px;
+}
+
+h2 {
+  font-weight: 400;
+  line-height: 1.5em;
+  font-size: 34px;
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+
+H2 sup {
+  font-weight: 300;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 33px;
+}
+
+*+h2 {
+  margin-top: 20px;
+}
+
+.h2p {
+  margin-bottom: 50px;
+}
+
+.h2p h2 {
+  margin-bottom: 0;
+}
+
+h3 {
+  font-weight: 600;
+  line-height: 1.3em;
+  font-size: 26px;
+}
+
+.small {
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.5em;
+}
+
+.phone {
+  font-size: 20px;
+  font-weight: 600;
+  color: #000000;
+}
+
+.regular {
+  font-size: 24px;
+  color: #242727;
+  letter-spacing: 0;
+  line-height: 37px;
+  margin-bottom: 30px;
+}
+
+.text_price {
+  font-size: 30px;
+  line-height: 58px;
+  font-weight: 700;
+}
+
+.highlight {
+  background: #FFE867;
+}
+.small_label {
+  font-size: 14px;
+  color: #000;
+  letter-spacing: 0;
+  line-height: 37px;
+  background: #FFDC32;
+  box-shadow: 0 18px 35px 0 rgba(0,0,0,0.07);
+  border-radius: 3px;
+  margin-left: 30px;
+  padding: 5px 10px 5px 10px;
+  display: inline-block;
+  line-height: 1.5em;
+}
