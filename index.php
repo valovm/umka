@@ -21,7 +21,6 @@
 <body>
 <!-- Header -->
 <header class="header">
-    вапавпыв
     <div class="container">
         <div class="row align-items-center">
             <div class="col-4">
